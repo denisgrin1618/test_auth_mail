@@ -41,5 +41,6 @@ class User extends Authenticatable implements MustVerifyEmail
  
     //master 1 commit
     //remote master 2 commit
+    //remote master 3 commit
     
 }
