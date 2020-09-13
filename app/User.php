@@ -38,6 +38,7 @@ class User extends Authenticatable implements MustVerifyEmail
     ];
     
  
+    //master 1 commit
     
     
 }
